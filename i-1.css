@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+div {
+    display: flex;
+    justify-content: center; 
+    background-color: gray; 
+  }
+h1 {
+    margin: 25px; 
+    color: aliceblue;
+  }
+.one:hover {
+    color: #fb429b;
+}
+.two:hover {
+    color: #ba0404;
+}
+.three:hover {
+    color: #13b8ff;
+}
+.four:hover {
+    color: #ffff1e;
+}
+.five:hover {
+    color: #f308ff;
+}
+
+  
